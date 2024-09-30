@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am Second Year B.tech(CSE) student at NIT Jamshedpur.<br>I am Full Stack Web developer.<br>
+I am pursuing B.tech(CSE) at NIT Jamshedpur.<br>I am Full Stack Web developer.<br>
 
 
 # 💻 Tech Stack:
